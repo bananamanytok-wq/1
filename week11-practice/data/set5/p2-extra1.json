@@ -1,0 +1,10 @@
+{"name": "Final", "between": [
+  {"name": "Semi A", "minutes": 31, "winner": "Ana", "between": [
+    {"name": "Ana"},
+    {"name": "Kai"}
+  ]},
+  {"name": "Semi B", "minutes": 45, "winner": "Dan", "between": [
+    {"name": "Dan"},
+    {"name": "Eve"}
+  ]}
+]}

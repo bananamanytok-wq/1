@@ -1,0 +1,13 @@
+{"user": "prof_lin", "text": "Exam on Friday", "replies": [
+  {"user": "mei", "text": "Which chapters?", "replies": [
+    {"user": "prof_lin", "text": "Chapters 1 to 5", "replies": [
+      {"user": "mei", "text": "Thanks!", "replies": []}
+    ]},
+    {"user": "kai", "text": "Same question", "replies": []}
+  ]},
+  {"user": "ana", "text": "Room?", "replies": [
+    {"user": "ben", "text": "Room 204", "replies": []},
+    {"user": "lin", "text": "And the time?", "replies": []}
+  ]},
+  {"user": "kai", "text": "Good luck all", "replies": []}
+]}

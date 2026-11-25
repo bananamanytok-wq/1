@@ -1,0 +1,22 @@
+{"name": "Final", "minutes": 52, "winner": "Ana", "between": [
+  {"name": "Semi A", "minutes": 31, "winner": "Ana", "between": [
+    {"name": "QF1", "minutes": 40, "winner": "Ana", "between": [
+      {"name": "Ana"},
+      {"name": "Kai"}
+    ]},
+    {"name": "QF2", "minutes": 28, "winner": "Ben", "between": [
+      {"name": "Ben"},
+      {"name": "Cy"}
+    ]}
+  ]},
+  {"name": "Semi B", "minutes": 45, "winner": "Dan", "between": [
+    {"name": "QF3", "minutes": 35, "winner": "Dan", "between": [
+      {"name": "Dan"},
+      {"name": "Eve"}
+    ]},
+    {"name": "QF4", "minutes": 50, "winner": "Fay", "between": [
+      {"name": "Fay"},
+      {"name": "Gil"}
+    ]}
+  ]}
+]}

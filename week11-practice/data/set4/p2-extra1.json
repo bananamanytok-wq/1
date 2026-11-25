@@ -1,0 +1,9 @@
+["fried rice", [
+  ["rice", 20],
+  "salt",
+  ["egg mix", [
+    ["eggs", 30],
+    "pepper"
+  ]],
+  ["shrimp", 90]
+]]

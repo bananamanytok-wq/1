@@ -1,0 +1,12 @@
+{"name": "Ana", "role": "President", "team": [
+  {"name": "Ben", "role": "Build lead", "team": [
+    {"name": "Chen", "role": "Builder", "team": []},
+    {"name": "Dana", "role": "Builder", "team": [
+      {"name": "Eli", "role": "Intern", "team": []}
+    ]}
+  ]},
+  {"name": "Fay", "role": "Events lead", "team": [
+    {"name": "Gus", "role": "Volunteer", "team": []}
+  ]},
+  {"name": "Hana", "role": "Treasurer", "team": []}
+]}

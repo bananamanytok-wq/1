@@ -1,0 +1,15 @@
+{"name": "home", "contents": [
+  {"name": "a.txt", "size": 10},
+  {"name": "games", "contents": [
+    {"name": "saves", "contents": [
+      {"name": "slot1.dat", "size": 50},
+      {"name": "slot2.dat", "size": 40}
+    ]}
+  ]},
+  {"name": "videos", "contents": [
+    {"name": "clips", "contents": [
+      {"name": "intro.mp4", "size": 700},
+      {"name": "outro.mp4", "size": 650}
+    ]}
+  ]}
+]}

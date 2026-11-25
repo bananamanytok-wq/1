@@ -1,0 +1,11 @@
+["bubble tea", [
+  ["tea", 15],
+  ["pearls", [
+    ["tapioca", 12],
+    ["syrup", [
+      ["brown sugar", 8],
+      ["water", 0]
+    ]]
+  ]],
+  ["milk", 20]
+]]

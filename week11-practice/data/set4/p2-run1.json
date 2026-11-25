@@ -1,0 +1,13 @@
+["beef noodle soup", [
+  ["noodles", 40],
+  ["broth", [
+    ["beef bones", 80],
+    ["ginger", 10],
+    ["star anise", 15]
+  ]],
+  ["beef", 150],
+  ["toppings", [
+    ["green onion", 10],
+    ["pickled greens", 20]
+  ]]
+]]

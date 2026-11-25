@@ -1,0 +1,7 @@
+{"name": "home", "contents": [
+  {"name": "report.pdf", "size": "1.5 MB"},
+  {"name": "backup", "contents": [
+    {"name": "old.zip", "size": "2 MB"},
+    {"name": "list.txt", "size": 6}
+  ]}
+]}

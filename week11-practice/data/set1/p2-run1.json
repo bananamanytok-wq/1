@@ -1,0 +1,20 @@
+{"name": "home", "contents": [
+  {"name": "docs", "contents": [
+    {"name": "cv.pdf", "size": 120},
+    {"name": "school", "contents": [
+      {"name": "essay.pdf", "size": 300},
+      {"name": "2025", "contents": [
+        {"name": "tax.pdf", "size": 80}
+      ]}
+    ]}
+  ]},
+  {"name": "music", "contents": []},
+  {"name": "photos", "contents": [
+    {"name": "trip", "contents": [
+      {"name": "beach.jpg", "size": 2400},
+      {"name": "sunset.jpg", "size": 1800}
+    ]},
+    {"name": "cat.jpg", "size": 900}
+  ]},
+  {"name": "notes.txt", "size": 12}
+]}

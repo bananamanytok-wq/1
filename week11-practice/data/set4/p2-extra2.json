@@ -1,0 +1,8 @@
+["salad", [
+  "lettuce",
+  "tomato",
+  ["dressing", [
+    "oil",
+    ["vinegar", 5]
+  ]]
+]]

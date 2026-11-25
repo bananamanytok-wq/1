@@ -1,0 +1,6 @@
+{"name": " Kim ", "role": "President", "team": [
+  {"name": "Lee  ", "role": "Secretary", "team": [
+    {"name": " Max", "role": "Helper", "team": []}
+  ]},
+  {"name": "Noa", "role": "Coach", "team": []}
+]}
